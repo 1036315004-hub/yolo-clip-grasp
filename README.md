@@ -64,7 +64,7 @@ yolo-clip-grasp/
 - 执行（A）：基于 Elite SDK 封装了 EC 控制类。核心算法生成目标位姿后，通过逆运动学（IK）求解和手眼标定矩阵（Hand-Eye Matrix）映射，实现机械臂的高精度动作执行。
 
 #### 3. 仓库目录说明
-</pre>
+<pre>
 ```
    yolo-clip-grasp/
 └── VLA_arm_project/
