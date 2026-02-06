@@ -1,10 +1,10 @@
-# VLA-Arm-Project: Semantic Grasp Control System for Robotic Arm (Simulation + Physical Deployment)
+# VLA-Arm-Project: Semantic Grasp Control System for Robotic Arm 
 
 [English](#english-version) | [中文说明](#中文说明)
 ---
 
 ## English Version
-### Project Summary: Semantic Grasp Control System for Robotic Arm Based on VLA Framework (Simulation + Physical Deployment)
+### Project Summary: Semantic Grasp Control System for Robotic Arm Based on VLA Framework
 
 #### 1. Core Project Capabilities
 This project is developed based on the Elite EC63 SDK, building a full closed-loop system from natural language instructions to hardware low-level execution.
@@ -50,7 +50,7 @@ yolo-clip-grasp/
 ---
 
 ## 中文说明
-### 项目总结：基于 VLA 框架的机械臂语义抓取控制系统（仿真+实机）
+### 项目总结：基于 VLA 框架的机械臂语义抓取控制系统
 
 #### 1. 项目核心能力
 本项目基于 Elite（艾利特）EC63 SDK 开发，构建了从自然语言指令到硬件底层执行的全链路闭环。
